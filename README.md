@@ -7,13 +7,13 @@
 
 ## 📌 Project Overview
 
-This project presents an interactive Airline Performance Dashboard developed using Power BI to analyze passenger trends, airline performance, route analysis, and operational insights. The dashboard converts raw airline data into meaningful visual insights that help understand travel patterns and business performance.
+This project presents an interactive Airline Performance Dashboard developed using Power BI to analyze passenger trends, airline performance, route analysis, and operational insights. The dashboard provides actionable insights for stakeholders to monitor airline operations, identify trends, and make data-driven decisions.
 
 ---
 
 ## 🎯 Business Problem
 
-Airline companies require efficient monitoring of passenger traffic, route performance, load factors, and operational efficiency. This dashboard helps stakeholders track key airline metrics, identify high-performing routes, and support data-driven business decisions.
+Airline companies require efficient monitoring of passenger traffic, route performance, load factors, and operational efficiency. This dashboard helps stakeholders track key airline metrics, identify top-performing routes, and optimize airline operations.
 
 ---
 
@@ -77,8 +77,7 @@ Through this project, I improved my understanding of:
 
 ## 🖼 Dashboard Preview
 
-    !\[Dashboard](dashboard.png?raw=true)
-
+![Dashboard](dashboard.png?raw=true)
 
 ---
 
@@ -122,7 +121,7 @@ Aspiring Data Analyst | SQL | Excel | Power BI | Python | Tableau
 
 ## 📬 Connect With Me
 
-LinkedIn:www.linkedin.com/in/gudla-venkata-sai-manikanta
+LinkedIn: www.linkedin.com/in/gudla-venkata-sai-manikanta
 
 ---
 
